@@ -1,2 +1,2 @@
 # iris-decision-tree
-Using Iris dataset, predicting class using Decision Tree Classifier and visualizing it using Python.
+This code demonstrates the use of a decision tree algorithm for classifying the Iris flower dataset. The Iris dataset is a well-known example in machine learning and consists of measurements of sepal length, sepal width, petal length, and petal width for three species of Iris flowers. The code loads the dataset, trains a decision tree classifier, visualizes the decision tree graphically, and allows the user to input new measurements for prediction of the Iris species.
